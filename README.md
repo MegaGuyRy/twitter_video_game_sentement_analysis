@@ -26,6 +26,7 @@ The dataset I reference for this project is from Kaggle and is a collection of t
 
 ### Data Cleaning
 In the initial data cleaning process I removed all rows with null entries. I then nomalized all comlumns so all strings were lowercase as well as removing punctuation, links and @'s in the tweets column. This greatly reduced the number of token that would need be analysed will preserving the integrity of the data.
+
 <img width="162" alt="image" src="https://github.com/user-attachments/assets/168b4456-768a-4621-ad61-abcf33e1fa20" />
 
 
