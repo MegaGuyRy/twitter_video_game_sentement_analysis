@@ -47,20 +47,9 @@ EDA Reviled that the data held:
 <img width="212" alt="image" src="https://github.com/user-attachments/assets/b66e4ef2-2070-4f27-ba29-9b8b5db6338f" />
 <img width="616" alt="image" src="https://github.com/user-attachments/assets/ac5a9e42-693a-4e5d-a690-e4592dfc1220" />
 
-
-
-
 ### Data Analysis
-
-
-
-### Results
-The predictive model reached a Mean Absolute Error (MAE) of $1.50 when predicting average fare. Below shows a series of test used to validate where circles are the actual average fair and x's are the predicted value.
-![preditions_vs_actual_data](https://github.com/user-attachments/assets/139f0980-1588-4173-93e1-b5c8f05f5f8e)
-
-Below is a graph of data represening the use of this function for all 168 combinations of weekdays and hours
-![predicted_profit_line_graph](https://github.com/user-attachments/assets/e0f9c1d5-b12b-4786-9fd0-34b745ce57fb)
-From this graph we can see that on average the highest average fairs are seen from 3am-6am for all days of the week
+To train my naive bayes classifier I split the data into 80% for training and 20% for testing. 
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/45aaec0a-5634-4809-8e94-a045eeaa06b6" />
 
 ### References
-Dataset: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Dataset: https://www.kaggle.com/datasets/palakjain41/video-games-dataset-for-sentiment-analysis
