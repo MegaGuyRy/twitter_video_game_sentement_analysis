@@ -48,7 +48,7 @@ EDA Reviled that the data held:
 <img width="616" alt="image" src="https://github.com/user-attachments/assets/ac5a9e42-693a-4e5d-a690-e4592dfc1220" />
 
 ### Data Analysis
-To train my naive bayes classifier I split the data into 80% for training and 20% for testing. \
+To train my naive bayes classifier I split the data into 80% for training and 20% for testing. 
 
 <img width="326" alt="image" src="https://github.com/user-attachments/assets/45aaec0a-5634-4809-8e94-a045eeaa06b6" />
 
