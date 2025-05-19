@@ -21,7 +21,7 @@ The dataset I reference for this project is from Kaggle and is a collection of t
 
 ### Tools
 - Excel: initial exploration, manual cleaning, calculate and store new data.
-- Python: (Pandas, NumPy, Matplotlib, NLTK, Sklearn) – data wrangling, data cleaning, data visualization, and model building.
+- Python: (Pandas, NumPy, Matplotlib, NLTK) – data wrangling, data cleaning, data visualization, and model building.
 
 ### Data Cleaning
 In the initial data cleaning process I used python to removed all rows with null entries. I then nomalized all comlumns so all strings were lowercase as well as removing punctuation, links and @'s in the tweets column. This greatly reduced the number of token that would need be analysed will preserving the integrity of the data.
